@@ -21,6 +21,6 @@
   <project remote="freescale" revision="dizzy" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project remote="freescale" revision="dizzy" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
 
-  <project remote="gateworks" revision="dizzy" name="meta-gateworks" path="sources/meta-gateworks"/>
+  <project remote="imthatoneguy" revision="dizzy" name="meta-gateworks" path="sources/meta-gateworks"/>
 
 </manifest>
